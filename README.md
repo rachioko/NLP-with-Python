@@ -1,2 +1,4 @@
-# NLP-with-Python
-Natural language Processing and any python codes involving text analysis
+# Natural Language Processing
+My progress through the Natural language Processing branch of Machine Learning. 
+With Python and R
+
